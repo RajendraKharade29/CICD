@@ -1,0 +1,27 @@
+#Workflow
+
+name: Hello
+
+on:
+
+worklofw_dispatch:
+
+jobs:
+
+    say-hello:
+    runs-on: ubuntu-letest
+      
+      steps:
+          -name: say hello to everyone
+
+          run: echo "Hello Dosto"
+
+          
+  
+
+#Jobs
+
+#Steps
+
+#Action
+
